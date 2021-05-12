@@ -9,7 +9,6 @@ Basis : Odyssey
 License : MIT License
 
 ## 작업사항
---------------
 
 ### V1.0
 * 소스코드 최적화 (진행중)
