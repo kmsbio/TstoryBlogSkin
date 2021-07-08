@@ -1,11 +1,13 @@
-<img align="center" width="400px" src="Title.png">
+<img align="center" width="400px" src="assets/Title.png">
 
 
 # 티스토리 스킨공유
 '달에 앉아있는 서비' 블로그 스킨 공유입니다.
-코드최적화 및 몇몇 추가기능을 기획중입니다.
 --------------
+소스코드 줄이기를 메인으로 추가기능 제작으로 편의성 제공을 목표로 하고 있습니다.
+
 Basis : Odyssey
+
 License : MIT License
 
 ## 스킨적용방법
