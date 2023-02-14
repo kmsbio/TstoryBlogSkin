@@ -19,6 +19,9 @@ License : MIT License
 <details>
     <summary>자세히</summary>
 
+### V1.0.3
+* 상단이동버튼 크기 및 불투명도 조절
+
 ### V1.0.2
 * 소스코드 정리
 
