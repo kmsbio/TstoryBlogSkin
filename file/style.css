@@ -2492,7 +2492,8 @@ html {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(10px);
     z-index: 1;
 }
 
